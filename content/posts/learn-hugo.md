@@ -1,7 +1,7 @@
 ---
 title: "Learn Hugo"
 date: 2020-11-02T09:46:20+08:00
-draft: true
+draft: false
 ---
 
 ## quick start
