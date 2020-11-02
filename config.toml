@@ -1,0 +1,4 @@
+baseURL = "http://huxiaodanr.github.io/studyblog"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme="ananke"
