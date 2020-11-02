@@ -6,6 +6,7 @@ draft: false
 
 ## quick start docs
 
+Step by step
 **Step 1: Install Hugo**
 
 ```

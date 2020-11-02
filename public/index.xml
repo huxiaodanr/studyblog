@@ -13,7 +13,7 @@
       <pubDate>Mon, 02 Nov 2020 09:46:20 +0800</pubDate>
       
       <guid>http://huxiaodanr.github.io/studyblog/posts/learn-hugo/</guid>
-      <description>quick start docs Step 1: Install Hugo
+      <description>quick start docs Step by step Step 1: Install Hugo
 brew install hugo# orport install hugoTo verify your new install:
 hugo versionStep 2: Create a New Site
 hugo new site quickstartStep 3: Add a Theme
