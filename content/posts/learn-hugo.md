@@ -4,7 +4,7 @@ date: 2020-11-02T09:46:20+08:00
 draft: false
 ---
 
-## quick start
+## quick start docs
 
 **Step 1: Install Hugo**
 
