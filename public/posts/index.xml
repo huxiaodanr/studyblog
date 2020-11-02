@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://huxiaodanr.github.io/posts/</link>
+    <link>http://huxiaodanr.github.io/studyblog/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2020 09:46:20 +0800</lastBuildDate><atom:link href="http://huxiaodanr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Nov 2020 09:46:20 +0800</lastBuildDate><atom:link href="http://huxiaodanr.github.io/studyblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn Hugo</title>
-      <link>http://huxiaodanr.github.io/posts/learn-hugo/</link>
+      <link>http://huxiaodanr.github.io/studyblog/posts/learn-hugo/</link>
       <pubDate>Mon, 02 Nov 2020 09:46:20 +0800</pubDate>
       
-      <guid>http://huxiaodanr.github.io/posts/learn-hugo/</guid>
+      <guid>http://huxiaodanr.github.io/studyblog/posts/learn-hugo/</guid>
       <description>quick start Step 1: Install Hugo
 brew install hugo# orport install hugoTo verify your new install:
 hugo versionStep 2: Create a New Site
